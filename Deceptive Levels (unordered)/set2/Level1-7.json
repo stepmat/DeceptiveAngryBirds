@@ -1,0 +1,159 @@
+{
+	"camera": [
+		{
+			"bottom": 13.778,
+			"id": "Slingshot",
+			"left": -12.787,
+			"right": 55.52,
+			"top": -37.452,
+			"x": 26.286,
+			"y": -11.837
+		},
+		{
+			"bottom": 11.387,
+			"id": "Castle",
+			"left": 36.436,
+			"right": 93.352,
+			"top": -31.3,
+			"x": 69.814,
+			"y": -9.957
+		}
+	],
+	"counts": {
+		"birds": 1,
+		"blocks": 20
+	},
+	"id": "pack1\/Level3.lua",
+	"scoreEagle": 19000,
+	"scoreGold": 28000,
+	"scoreSilver": 20000,
+	"theme": "BACKGROUND_BLUE_GRASS",
+	"world": {
+		"bird_1": {
+			"angle": 0,
+			"id": "BIRD_RED",
+			"x": 0.196,
+			"y": -0.925
+		},
+		"block_1": {
+			"angle": 0,
+			"id": "TERRAIN_TEXTURED_HILLS_5X5",
+			"x": 40,
+			"y": -2.5
+		},
+		"block_2": {
+			"angle": 90,
+			"id": "STONE_BLOCK_8X1",
+			"x": 35.5,
+			"y": -31
+		},
+		"block_3": {
+			"angle": 270,
+			"id": "ICE_BLOCK_4X1",
+			"x": 32,
+			"y": -31
+		},
+		"block_4": {
+			"angle": 0,
+			"id": "TERRAIN_TEXTURED_HILLS_5X5",
+			"x": 40,
+			"y": -24.5
+		},
+		"block_5": {
+			"angle": 270,
+			"id": "ICE_BLOCK_4X1",
+			"x": 39,
+			"y": -31
+		},
+		"block_6": {
+			"angle": 0,
+			"id": "STONE_BLOCK_4X1",
+			"x": 42,
+			"y": -35.5
+		},
+		"block_7": {
+			"angle": 0,
+			"id": "ICE_BLOCK_2X2",
+			"x": 39,
+			"y": -28
+		},
+		"block_8": {
+			"angle": 0,
+			"id": "PIG_BASIC_SMALL",
+			"x": 50,
+			"y": -1
+		},
+		"block_9": {
+			"angle": 0,
+			"id": "WOOD_BLOCK_8X1",
+			"x": 31.5,
+			"y": -36.5
+		},
+		"block_10": {
+			"angle": 0,
+			"id": "WOOD_BLOCK_8X1",
+			"x": 39.5,
+			"y": -36.5
+		},
+		"block_11": {
+			"angle": 0,
+			"id": "STONE_BLOCK_4X1",
+			"x": 29,
+			"y": -35.5
+		},
+		"block_12": {
+			"angle": 0,
+			"id": "ICE_BLOCK_2X2",
+			"x": 32,
+			"y": -28
+		},
+		"block_13": {
+			"angle": 0,
+			"id": "STONE_BLOCK_4X1",
+			"x": 35.5,
+			"y": -35.5
+		},
+		"block_14": {
+			"angle": 0,
+			"id": "TERRAIN_TEXTURED_HILLS_5X5",
+			"x": 40,
+			"y": -6.5
+		},
+		"block_15": {
+			"angle": 0,
+			"id": "TERRAIN_TEXTURED_HILLS_5X5",
+			"x": 40,
+			"y": -10.5
+		},
+		"block_16": {
+			"angle": 0,
+			"id": "TERRAIN_TEXTURED_HILLS_5X5",
+			"x": 31,
+			"y": -24.5
+		},
+		"block_17": {
+			"angle": 0,
+			"id": "STONE_BLOCK_4X4_HOLLOW",
+			"x": 39,
+			"y": -39.5
+		},
+		"block_18": {
+			"angle": 0,
+			"id": "TERRAIN_TEXTURED_HILLS_5X5",
+			"x": 35.5,
+			"y": -24.5
+		},
+		"block_19": {
+			"angle": 90,
+			"id": "STONE_BLOCK_8X1",
+			"x": 29,
+			"y": -31
+		},
+		"block_20": {
+			"angle": 90,
+			"id": "STONE_BLOCK_8X1",
+			"x": 42,
+			"y": -31
+		}
+	}
+}
