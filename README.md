@@ -1,7 +1,7 @@
 # DeceptiveAngryBirds
 Set of 30 Deceptive Angry Birds Levels, used for research paper presented at FDG18.
 
-These levels contain deceptive design elements that deliberately exploit pre-defined agent strategies, taking advantage of their biases and limitations.
+These levels contain several deceptive design elements that deliberately exploit pre-defined agent strategies, taking advantage of their biases and limitations.
 
 ![Alt text](/level_screenshots/a2.png?raw=true "example level #1")
 
